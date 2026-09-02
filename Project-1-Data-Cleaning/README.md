@@ -14,13 +14,13 @@ Before jumping into cleaning, I first explored the dataset to understand what I 
 actually working with — what each column represented and what the dataset was about.
 
 Key decision: Instead of deleting the missing values in the Coupon column, I 
-replaced them with "No Coupon" — because in context, a blank value likely just meant 
+replaced them with "No Coupon",  because in context, a blank value likely just meant 
 the customer didn't use a coupon, not that data was missing or broken.
 
 I also corrected inconsistent data formats to make the dataset ready for analysis.
 
 Key Takeaway
-Data cleaning isn't just about removing blanks and duplicates — you have to 
+Data cleaning isn't just about removing blanks and duplicates, you have to 
 understand the data and make decisions based on context. Not every blank value is 
 necessarily bad data.
 
