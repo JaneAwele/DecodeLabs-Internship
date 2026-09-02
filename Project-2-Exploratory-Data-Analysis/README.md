@@ -36,9 +36,9 @@ the numbers with context, a high mean vs. median told me the data was skewed bef
 I even looked at a single chart, and the IQR method gave me an objective way to say 
 "this is unusual" instead of just eyeballing it.
 
- Skills & Tools
+Skills & Tools
 Data analysis, descriptive statistics, analytical thinking · Microsoft Excel 
-(QUARTILE, SUMIF, COUNTIF, INDEX/MATCH)
+(QUARTILE, SUMIF, COUNTIF, AVERAGEIF)
 
 
 📁 [View deliverable](Dataset%20for%20Data%20Analytics%202.xlsx)
