@@ -1,8 +1,8 @@
-# Project 1: Data Cleaning & Preparation
+Project 1: Data Cleaning & Preparation
 
-Day 1 of my Data Analytics Internship at DecodeLabs
+Week 1 of my Data Analytics Internship at DecodeLabs
 
-## About the Dataset
+ About the Dataset
 An e-commerce dataset with:
 1. 1,201 rows
 2. 14 columns
@@ -11,9 +11,9 @@ An e-commerce dataset with:
 
  What I Did
 Before jumping into cleaning, I first explored the dataset to understand what I was 
-actually working with — what each column represented and what the dataset was about.
+actually working with, what each column represented and what the dataset was about.
 
-**Key decision:** Instead of deleting the missing values in the Coupon column, I 
+Key decision: Instead of deleting the missing values in the Coupon column, I 
 replaced them with "No Coupon", because in context, a blank value likely just meant 
 the customer didn't use a coupon, not that data was missing or broken.
 
@@ -29,3 +29,5 @@ Data cleaning, data preparation · Microsoft Excel
 
 
 📁 [View deliverable](Dataset%20for%20Data%20Analytics.xlsx)
+
+Note: this is an Excel file, click Download on the file page to open it and see the full analysis, including live formulas.
