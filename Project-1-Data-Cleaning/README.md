@@ -28,4 +28,4 @@ Skills & Tools
 Data cleaning, data preparation · Microsoft Excel
 
 
-📁 [View deliverable](./Project-1-Data-Cleaning/Project-1-Data-Cleaning/Dataset%20for%20Data%20Analytics.xlsx)
+📁 [View deliverable](Dataset%20for%20Data%20Analytics.xlsx)
