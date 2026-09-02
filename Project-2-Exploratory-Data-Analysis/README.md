@@ -41,7 +41,7 @@ Data analysis, descriptive statistics, analytical thinking · Microsoft Excel
 (QUARTILE, SUMIF, COUNTIF, INDEX/MATCH, LARGE)
 
 
-📁 [View deliverable](Dataset%20for%20Data%20Analytics.xlsx)
+📁 [View deliverable](Dataset%20for%20Data%20Analytics%202.xlsx)
 
-Note: this is an Excel file — click Download on the file page to open it and see 
+Note: this is an Excel file, click Download on the file page to open it and see 
 the full analysis, including live formulas.
