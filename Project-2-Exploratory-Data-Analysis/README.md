@@ -38,7 +38,7 @@ I even looked at a single chart, and the IQR method gave me an objective way to 
 
  Skills & Tools
 Data analysis, descriptive statistics, analytical thinking · Microsoft Excel 
-(QUARTILE, SUMIF, COUNTIF, INDEX/MATCH, LARGE)
+(QUARTILE, SUMIF, COUNTIF, INDEX/MATCH)
 
 
 📁 [View deliverable](Dataset%20for%20Data%20Analytics%202.xlsx)
